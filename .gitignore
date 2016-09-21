@@ -1,5 +1,6 @@
 www/tmp/*
 nohup.out
-config/pid
 node_modules/*
 nohup.out
+tmp/*
+jsserver/config/pid
