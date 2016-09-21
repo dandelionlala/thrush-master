@@ -1,0 +1,952 @@
+SERVICE START AT 2016/09/21-10:12:00
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 94ms
+SERVICE START AT 2016/09/21-10:38:48
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 91ms
+D:\thrush-master\node_modules\less\lib\less\parser\parser.js:114
+            str = str.replace(/\r\n?/g, '\n');
+                     ^
+
+TypeError: Cannot read property 'replace' of undefined
+    at Object.Parser.parse (D:\thrush-master\node_modules\less\lib\less\parser\parser.js:114:22)
+    at Object.parse (D:\thrush-master\node_modules\less\lib\less\parse.js:61:18)
+    at Object.render (D:\thrush-master\node_modules\less\lib\less\render.js:25:18)
+    at loadFile (D:\thrush-master\index.js:92:10)
+    at Server.funWebSvr (D:\thrush-master\index.js:52:4)
+    at emitTwo (events.js:87:13)
+    at Server.emit (events.js:172:7)
+    at HTTPParser.parserOnIncoming [as onIncoming] (_http_server.js:507:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:88:23)
+SERVICE START AT 2016/09/21-10:39:24
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 107ms
+D:\thrush-master\node_modules\less\lib\less\parser\parser.js:114
+            str = str.replace(/\r\n?/g, '\n');
+                     ^
+
+TypeError: Cannot read property 'replace' of undefined
+    at Object.Parser.parse (D:\thrush-master\node_modules\less\lib\less\parser\parser.js:114:22)
+    at Object.parse (D:\thrush-master\node_modules\less\lib\less\parse.js:61:18)
+    at Object.render (D:\thrush-master\node_modules\less\lib\less\render.js:25:18)
+    at loadFile (D:\thrush-master\index.js:92:10)
+    at Server.funWebSvr (D:\thrush-master\index.js:52:4)
+    at emitTwo (events.js:87:13)
+    at Server.emit (events.js:172:7)
+    at HTTPParser.parserOnIncoming [as onIncoming] (_http_server.js:507:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:88:23)
+SERVICE START AT 2016/09/21-10:40:13
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 96ms
+compile timeout  /statics/js/fml.js
+compile timeout  /statics/css/welcome.css
+compile timeout  /statics/img/pc/head.png
+compile timeout  /statics/js/page/welcome.js
+compile timeout  /statics/js/jquery.js
+SERVICE START AT 2016/09/21-10:40:33
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 97ms
+compile timeout  /statics/js/fml.js
+compile timeout  /statics/css/welcome.css
+compile timeout  /statics/img/pc/head.png
+compile timeout  /statics/js/page/welcome.js
+compile timeout  /statics/js/jquery.js
+SERVICE START AT 2016/09/21-10:41:00
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 93ms
+compile timeout  /statics/js/fml.js
+compile timeout  /statics/css/welcome.css
+compile timeout  /statics/img/pc/head.png
+compile timeout  /statics/js/page/welcome.js
+compile timeout  /statics/js/jquery.js
+SERVICE START AT 2016/09/21-10:46:41
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 86ms
+D:\thrush-master\node_modules\less\lib\less\parser\parser.js:114
+            str = str.replace(/\r\n?/g, '\n');
+                     ^
+
+TypeError: Cannot read property 'replace' of undefined
+    at Object.Parser.parse (D:\thrush-master\node_modules\less\lib\less\parser\parser.js:114:22)
+    at Object.parse (D:\thrush-master\node_modules\less\lib\less\parse.js:61:18)
+    at Object.render (D:\thrush-master\node_modules\less\lib\less\render.js:25:18)
+    at loadFile (D:\thrush-master\index.js:92:10)
+    at Server.funWebSvr (D:\thrush-master\index.js:52:4)
+    at emitTwo (events.js:87:13)
+    at Server.emit (events.js:172:7)
+    at HTTPParser.parserOnIncoming [as onIncoming] (_http_server.js:507:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:88:23)
+SERVICE START AT 2016/09/21-10:47:32
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 92ms
+D:\thrush-master\node_modules\less\lib\less\parser\parser.js:114
+            str = str.replace(/\r\n?/g, '\n');
+                     ^
+
+TypeError: Cannot read property 'replace' of undefined
+    at Object.Parser.parse (D:\thrush-master\node_modules\less\lib\less\parser\parser.js:114:22)
+    at Object.parse (D:\thrush-master\node_modules\less\lib\less\parse.js:61:18)
+    at Object.render (D:\thrush-master\node_modules\less\lib\less\render.js:25:18)
+    at loadFile (D:\thrush-master\index.js:92:10)
+    at Server.funWebSvr (D:\thrush-master\index.js:52:4)
+    at emitTwo (events.js:87:13)
+    at Server.emit (events.js:172:7)
+    at HTTPParser.parserOnIncoming [as onIncoming] (_http_server.js:507:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:88:23)
+SERVICE START AT 2016/09/21-10:48:15
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 90ms
+compile timeout  /statics/js/fml.js
+compile timeout  /statics/css/welcome.css
+compile timeout  /statics/img/pc/head.png
+compile timeout  /statics/js/page/welcome.js
+compile timeout  /statics/js/jquery.js
+compile timeout  /statics/img/pc/head.png
+SERVICE START AT 2016/09/21-10:49:13
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 80ms
+compile timeout  /statics/js/fml.js
+compile timeout  /statics/css/welcome.css
+compile timeout  /statics/img/pc/head.png
+compile timeout  /statics/js/page/welcome.js
+compile timeout  /statics/js/jquery.js
+SERVICE START AT 2016/09/21-10:49:35
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 90ms
+compile timeout  /statics/js/fml.js
+compile timeout  /statics/css/welcome.css
+compile timeout  /statics/img/pc/head.png
+compile timeout  /statics/js/page/welcome.js
+compile timeout  /statics/js/jquery.js
+compile timeout  /statics/js/fml.js
+compile timeout  /statics/css/welcome.css
+compile timeout  /statics/img/pc/head.png
+compile timeout  /statics/js/page/welcome.js
+compile timeout  /statics/js/jquery.js
+SERVICE START AT 2016/09/21-10:50:01
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 88ms
+compile timeout  /statics/js/fml.js
+compile timeout  /statics/css/welcome.css
+compile timeout  /statics/img/pc/head.png
+compile timeout  /statics/js/page/welcome.js
+compile timeout  /statics/js/jquery.js
+SERVICE START AT 2016/09/21-10:52:26
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 91ms
+compile timeout  /statics/js/fml.js
+compile timeout  /statics/css/welcome.css
+compile timeout  /statics/img/pc/head.png
+compile timeout  /statics/js/page/welcome.js
+compile timeout  /statics/js/jquery.js
+SERVICE START AT 2016/09/21-10:53:58
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 90ms
+D:\thrush-master\index.js:53
+				clearTimer(timer);
+				^
+
+ReferenceError: clearTimer is not defined
+    at D:\thrush-master\index.js:53:5
+    at D:\thrush-master\index.js:102:5
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:380:3)
+SERVICE START AT 2016/09/21-10:54:34
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 90ms
+compile timeout  /statics/js/fml.js
+compile timeout  /statics/js/page/welcome.js
+compile timeout  /statics/js/jquery.js
+SERVICE START AT 2016/09/21-10:58:02
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 79ms
+D:\thrush-master\node_modules\less\lib\less\parser\parser.js:114
+            str = str.replace(/\r\n?/g, '\n');
+                     ^
+
+TypeError: Cannot read property 'replace' of undefined
+    at Object.Parser.parse (D:\thrush-master\node_modules\less\lib\less\parser\parser.js:114:22)
+    at Object.parse (D:\thrush-master\node_modules\less\lib\less\parse.js:61:18)
+    at Object.render (D:\thrush-master\node_modules\less\lib\less\render.js:25:18)
+    at loadFile (D:\thrush-master\index.js:92:10)
+    at Server.funWebSvr (D:\thrush-master\index.js:52:4)
+    at emitTwo (events.js:87:13)
+    at Server.emit (events.js:172:7)
+    at HTTPParser.parserOnIncoming [as onIncoming] (_http_server.js:507:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:88:23)
+SERVICE START AT 2016/09/21-10:58:38
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 92ms
+D:\thrush-master\node_modules\less\lib\less\parser\parser.js:114
+            str = str.replace(/\r\n?/g, '\n');
+                     ^
+
+TypeError: Cannot read property 'replace' of undefined
+    at Object.Parser.parse (D:\thrush-master\node_modules\less\lib\less\parser\parser.js:114:22)
+    at Object.parse (D:\thrush-master\node_modules\less\lib\less\parse.js:61:18)
+    at Object.render (D:\thrush-master\node_modules\less\lib\less\render.js:25:18)
+    at loadFile (D:\thrush-master\index.js:92:10)
+    at Server.funWebSvr (D:\thrush-master\index.js:52:4)
+    at emitTwo (events.js:87:13)
+    at Server.emit (events.js:172:7)
+    at HTTPParser.parserOnIncoming [as onIncoming] (_http_server.js:507:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:88:23)
+SERVICE START AT 2016/09/21-11:01:03
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 89ms
+D:\thrush-master\node_modules\less\lib\less\parser\parser.js:114
+            str = str.replace(/\r\n?/g, '\n');
+                     ^
+
+TypeError: Cannot read property 'replace' of undefined
+    at Object.Parser.parse (D:\thrush-master\node_modules\less\lib\less\parser\parser.js:114:22)
+    at Object.parse (D:\thrush-master\node_modules\less\lib\less\parse.js:61:18)
+    at Object.render (D:\thrush-master\node_modules\less\lib\less\render.js:25:18)
+    at loadFile (D:\thrush-master\index.js:92:10)
+    at Server.funWebSvr (D:\thrush-master\index.js:52:4)
+    at emitTwo (events.js:87:13)
+    at Server.emit (events.js:172:7)
+    at HTTPParser.parserOnIncoming [as onIncoming] (_http_server.js:507:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:88:23)
+SERVICE START AT 2016/09/21-11:01:21
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 91ms
+D:\thrush-master\node_modules\less\lib\less\parser\parser.js:114
+            str = str.replace(/\r\n?/g, '\n');
+                     ^
+
+TypeError: Cannot read property 'replace' of undefined
+    at Object.Parser.parse (D:\thrush-master\node_modules\less\lib\less\parser\parser.js:114:22)
+    at Object.parse (D:\thrush-master\node_modules\less\lib\less\parse.js:61:18)
+    at Object.render (D:\thrush-master\node_modules\less\lib\less\render.js:25:18)
+    at loadFile (D:\thrush-master\index.js:92:10)
+    at Server.funWebSvr (D:\thrush-master\index.js:52:4)
+    at emitTwo (events.js:87:13)
+    at Server.emit (events.js:172:7)
+    at HTTPParser.parserOnIncoming [as onIncoming] (_http_server.js:507:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:88:23)
+SERVICE START AT 2016/09/21-11:01:54
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 90ms
+D:\thrush-master\node_modules\less\lib\less\parser\parser.js:114
+            str = str.replace(/\r\n?/g, '\n');
+                     ^
+
+TypeError: Cannot read property 'replace' of undefined
+    at Object.Parser.parse (D:\thrush-master\node_modules\less\lib\less\parser\parser.js:114:22)
+    at Object.parse (D:\thrush-master\node_modules\less\lib\less\parse.js:61:18)
+    at Object.render (D:\thrush-master\node_modules\less\lib\less\render.js:25:18)
+    at loadFile (D:\thrush-master\index.js:92:10)
+    at Server.funWebSvr (D:\thrush-master\index.js:52:4)
+    at emitTwo (events.js:87:13)
+    at Server.emit (events.js:172:7)
+    at HTTPParser.parserOnIncoming [as onIncoming] (_http_server.js:507:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:88:23)
+SERVICE START AT 2016/09/21-11:04:05
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 91ms
+D:\thrush-master\node_modules\less\lib\less\parser\parser.js:114
+            str = str.replace(/\r\n?/g, '\n');
+                      ^
+
+TypeError: str.replace is not a function
+    at Object.Parser.parse (D:\thrush-master\node_modules\less\lib\less\parser\parser.js:114:23)
+    at Object.parse (D:\thrush-master\node_modules\less\lib\less\parse.js:61:18)
+    at Object.render (D:\thrush-master\node_modules\less\lib\less\render.js:25:18)
+    at D:\thrush-master\index.js:96:10
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:380:3)
+SERVICE START AT 2016/09/21-11:04:38
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 91ms
+compile timeout  /statics/js/fml.js
+compile timeout  /statics/css/welcome.css
+compile timeout  /statics/js/page/welcome.js
+compile timeout  /statics/js/jquery.js
+compile timeout  /statics/js/fml.js
+compile timeout  /statics/css/welcome.css
+compile timeout  /statics/js/page/welcome.js
+compile timeout  /statics/js/jquery.js
+SERVICE START AT 2016/09/21-11:05:24
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 97ms
+compile timeout  /statics/js/fml.js
+compile timeout  /statics/js/page/welcome.js
+compile timeout  /statics/js/jquery.js
+SERVICE START AT 2016/09/21-11:05:54
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 89ms
+D:\thrush-master\node_modules\less\lib\less\parser\parser.js:114
+            str = str.replace(/\r\n?/g, '\n');
+                      ^
+
+TypeError: str.replace is not a function
+    at Object.Parser.parse (D:\thrush-master\node_modules\less\lib\less\parser\parser.js:114:23)
+    at Object.parse (D:\thrush-master\node_modules\less\lib\less\parse.js:61:18)
+    at Object.render (D:\thrush-master\node_modules\less\lib\less\render.js:25:18)
+    at D:\thrush-master\index.js:97:10
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:380:3)
+SERVICE START AT 2016/09/21-11:06:45
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 91ms
+compile timeout  /statics/js/fml.js
+compile timeout  /statics/js/page/welcome.js
+compile timeout  /statics/js/jquery.js
+compile timeout  /statics/js/fml.js
+compile timeout  /statics/js/page/welcome.js
+compile timeout  /statics/js/jquery.js
+SERVICE START AT 2016/09/21-11:13:15
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 93ms
+compile timeout  /statics/js/fml.js
+compile timeout  /statics/js/page/welcome.js
+compile timeout  /statics/js/jquery.js
+compile timeout  /statics/js/fml.js
+compile timeout  /statics/js/page/welcome.js
+compile timeout  /statics/js/jquery.js
+SERVICE START AT 2016/09/21-11:13:54
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 94ms
+compile timeout  /statics/js/fml.js
+compile timeout  /statics/css/welcome.css
+compile timeout  /statics/img/pc/head.png
+compile timeout  /statics/js/page/welcome.js
+compile timeout  /statics/js/jquery.js
+SERVICE START AT 2016/09/21-11:14:15
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 90ms
+compile timeout  /statics/js/fml.js
+compile timeout  /statics/css/welcome.css
+compile timeout  /statics/img/pc/head.png
+compile timeout  /statics/js/page/welcome.js
+compile timeout  /statics/js/jquery.js
+SERVICE START AT 2016/09/21-11:14:31
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 89ms
+compile timeout  /statics/js/fml.js
+compile timeout  /statics/js/page/welcome.js
+compile timeout  /statics/js/jquery.js
+SERVICE START AT 2016/09/21-11:14:47
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 91ms
+compile timeout  /statics/js/fml.js
+compile timeout  /statics/css/welcome.css
+compile timeout  /statics/img/pc/head.png
+compile timeout  /statics/js/page/welcome.js
+compile timeout  /statics/js/jquery.js
+SERVICE START AT 2016/09/21-11:15:47
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 89ms
+compile timeout  /statics/js/fml.js
+compile timeout  /statics/js/page/welcome.js
+compile timeout  /statics/js/jquery.js
+SERVICE START AT 2016/09/21-11:17:09
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 90ms
+compile timeout  /statics/js/fml.js
+compile timeout  /statics/js/page/welcome.js
+compile timeout  /statics/js/jquery.js
+SERVICE START AT 2016/09/21-11:17:52
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 92ms
+compile timeout  /statics/js/fml.js
+compile timeout  /statics/js/page/welcome.js
+compile timeout  /statics/js/jquery.js
+SERVICE START AT 2016/09/21-11:18:29
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 91ms
+compile timeout  /statics/js/fml.js
+compile timeout  /statics/js/page/welcome.js
+compile timeout  /statics/js/jquery.js
+SERVICE START AT 2016/09/21-11:19:23
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 90ms
+compile timeout  /statics/js/fml.js
+compile timeout  /statics/js/page/welcome.js
+compile timeout  /statics/js/jquery.js
+compile timeout  /statics/js/fml.js
+compile timeout  /statics/js/page/welcome.js
+compile timeout  /statics/js/jquery.js
+SERVICE START AT 2016/09/21-11:20:20
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 89ms
+compile timeout  /statics/js/fml.js
+compile timeout  /statics/js/page/welcome.js
+compile timeout  /statics/js/jquery.js
+SERVICE START AT 2016/09/21-11:24:07
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 97ms
+compile timeout  /statics/js/fml.js
+compile timeout  /statics/js/page/welcome.js
+compile timeout  /statics/js/jquery.js
+SERVICE START AT 2016/09/21-11:31:51
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 96ms
+/fml.js
+/welcome.css
+/pc/head.png
+/page/welcome.js?1
+/jquery.js?1
+compile timeout  /statics/js/fml.js
+compile timeout  /statics/js/page/welcome.js
+compile timeout  /statics/js/jquery.js
+SERVICE START AT 2016/09/21-11:32:46
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 89ms
+SERVICE START AT 2016/09/21-11:35:36
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 90ms
+SERVICE START AT 2016/09/21-11:37:52
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 83ms
+abckdaf
+abckdaf
+SERVICE START AT 2016/09/21-11:40:03
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 88ms
+{ [Error: 'base.less' wasn't found. Tried - base.less,base.less]
+  type: 'File',
+  filename: 'input',
+  index: 0,
+  line: 1,
+  callLine: NaN,
+  callExtract: undefined,
+  column: 0,
+  extract: [ undefined, '@import url(\'base.less\');', '@pink: pink;' ],
+  message: '\'base.less\' wasn\'t found. Tried - base.less,base.less',
+  stack: undefined }
+SERVICE START AT 2016/09/21-11:44:00
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 92ms
+{ [Error: './base.less' wasn't found. Tried - ./base.less,base.less]
+  type: 'File',
+  filename: 'input',
+  index: 0,
+  line: 1,
+  callLine: NaN,
+  callExtract: undefined,
+  column: 0,
+  extract: [ undefined, '@import url(\'./base.less\');', '@pink: pink;' ],
+  message: '\'./base.less\' wasn\'t found. Tried - ./base.less,base.less',
+  stack: undefined }
+SERVICE START AT 2016/09/21-11:44:29
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 89ms
+{ [Error: '/base.less' wasn't found. Tried - /base.less]
+  type: 'File',
+  filename: 'input',
+  index: 0,
+  line: 1,
+  callLine: NaN,
+  callExtract: undefined,
+  column: 0,
+  extract: [ undefined, '@import url(\'/base.less\');', '@pink: pink;' ],
+  message: '\'/base.less\' wasn\'t found. Tried - /base.less',
+  stack: undefined }
+SERVICE START AT 2016/09/21-11:45:25
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 90ms
+{ [Error: 'less/base.less' wasn't found. Tried - less/base.less,less\base.less]
+  type: 'File',
+  filename: 'input',
+  index: 0,
+  line: 1,
+  callLine: NaN,
+  callExtract: undefined,
+  column: 0,
+  extract: [ undefined, '@import url(\'less/base.less\');', '@pink: pink;' ],
+  message: '\'less/base.less\' wasn\'t found. Tried - less/base.less,less\\base.less',
+  stack: undefined }
+SERVICE START AT 2016/09/21-11:49:51
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 90ms
+/statics/css/css/base.css  is lost
+SERVICE START AT 2016/09/21-11:50:24
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 94ms
+/statics/css/css/base.css  is lost
+SERVICE START AT 2016/09/21-11:51:08
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 92ms
+SERVICE START AT 2016/09/21-12:12:23
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 91ms
+{ [Error: '../less/base.less' wasn't found. Tried - ../less/base.less,..\less\base.less]
+  type: 'File',
+  filename: 'input',
+  index: 0,
+  line: 1,
+  callLine: NaN,
+  callExtract: undefined,
+  column: 0,
+  extract: 
+   [ undefined,
+     '@import url(\'../less/base.less\');',
+     '@pink: pink;' ],
+  message: '\'../less/base.less\' wasn\'t found. Tried - ../less/base.less,..\\less\\base.less',
+  stack: undefined }
+./statics/less/mail.less  is lost
+compile timeout  /statics/css/mail.css
+./statics/less/mail.less  is lost
+compile timeout  /statics/css/mail.css
+./statics/less/mail.less  is lost
+compile timeout  /statics/css/mail.css
+./statics/less/mail.less  is lost
+compile timeout  /statics/css/mail.css
+SERVICE START AT 2016/09/21-12:21:13
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 92ms
+{ [Error: 'base.less' wasn't found. Tried - base.less,base.less]
+  type: 'File',
+  filename: 'input',
+  index: 0,
+  line: 1,
+  callLine: NaN,
+  callExtract: undefined,
+  column: 0,
+  extract: [ undefined, '@import url(\'base.less\');', '@pink: pink;' ],
+  message: '\'base.less\' wasn\'t found. Tried - base.less,base.less',
+  stack: undefined }
+SERVICE START AT 2016/09/21-12:22:40
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 89ms
+abc
+{ [Error: 'base.less' wasn't found. Tried - base.less,base.less]
+  type: 'File',
+  filename: 'input',
+  index: 0,
+  line: 1,
+  callLine: NaN,
+  callExtract: undefined,
+  column: 0,
+  extract: [ undefined, '@import url(\'base.less\');', '@pink: pink;' ],
+  message: '\'base.less\' wasn\'t found. Tried - base.less,base.less',
+  stack: undefined }
+SERVICE START AT 2016/09/21-12:23:41
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 89ms
+@import url('base.less');
+@pink: pink;
+.wrap{
+	width: 1000px;
+}
+body{
+	background: @pink;
+}
+abc
+{ [Error: 'base.less' wasn't found. Tried - base.less,base.less]
+  type: 'File',
+  filename: 'input',
+  index: 0,
+  line: 1,
+  callLine: NaN,
+  callExtract: undefined,
+  column: 0,
+  extract: [ undefined, '@import url(\'base.less\');', '@pink: pink;' ],
+  message: '\'base.less\' wasn\'t found. Tried - base.less,base.less',
+  stack: undefined }
+@import url('base.less');
+@pink: pink;
+.wrap{
+	width: 1000px;
+}
+body{
+	background: @pink;
+}
+abc
+{ [Error: 'base.less' wasn't found. Tried - base.less,base.less]
+  type: 'File',
+  filename: 'input',
+  index: 0,
+  line: 1,
+  callLine: NaN,
+  callExtract: undefined,
+  column: 0,
+  extract: [ undefined, '@import url(\'base.less\');', '@pink: pink;' ],
+  message: '\'base.less\' wasn\'t found. Tried - base.less,base.less',
+  stack: undefined }
+SERVICE START AT 2016/09/21-14:33:08
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 92ms
+@import url('../less/base.less');
+@pink: pink;
+.wrap{
+	width: 1000px;
+}
+body{
+	background: @pink;
+}
+abc
+{ [Error: '../less/base.less' wasn't found. Tried - ../less/base.less,..\less\base.less]
+  type: 'File',
+  filename: 'input',
+  index: 0,
+  line: 1,
+  callLine: NaN,
+  callExtract: undefined,
+  column: 0,
+  extract: 
+   [ undefined,
+     '@import url(\'../less/base.less\');',
+     '@pink: pink;' ],
+  message: '\'../less/base.less\' wasn\'t found. Tried - ../less/base.less,..\\less\\base.less',
+  stack: undefined }
+@import url('../less/base.less');
+@pink: pink;
+.wrap{
+	width: 1000px;
+}
+body{
+	background: @pink;
+}
+abc
+{ [Error: '../less/base.less' wasn't found. Tried - ../less/base.less,..\less\base.less]
+  type: 'File',
+  filename: 'input',
+  index: 0,
+  line: 1,
+  callLine: NaN,
+  callExtract: undefined,
+  column: 0,
+  extract: 
+   [ undefined,
+     '@import url(\'../less/base.less\');',
+     '@pink: pink;' ],
+  message: '\'../less/base.less\' wasn\'t found. Tried - ../less/base.less,..\\less\\base.less',
+  stack: undefined }
+@import url('base.css');
+@pink: pink;
+.wrap{
+	width: 1000px;
+}
+body{
+	background: @pink;
+}
+body{
+	width: 100%;
+	background: yellow;
+}
+@import url('base.css');
+@pink: pink;
+.wrap{
+	width: 1000px;
+}
+body{
+	background: @pink;
+}
+@yellow: yellow;
+body{
+	width: 100%;
+	background: @yellow;
+}
+@import url('base.css');
+@pink: pink;
+.wrap{
+	width: 1000px;
+}
+body{
+	background: @pink;
+}
+@yellow: yellow;
+body{
+	width: 100%;
+	background: @yellow;
+	border: solid 1px red;
+}
+@import url('base.css');
+@pink: pink;
+.wrap{
+	width: 1000px;
+}
+body{
+	background: @pink;
+}
+@yellow: yellow;
+body{
+	width: 100%;
+	background: @yellow;
+	border: solid 1px red;
+}
+SERVICE START AT 2016/09/21-14:48:36
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 99ms
+SERVICE START AT 2016/09/21-14:52:13
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 87ms
+D:\thrush-master\index.js:48
+			res.writeHead(200, {"Content-Type": contentType.funGetContentType(fileType)});
+			                                                                  ^
+
+ReferenceError: fileType is not defined
+    at Server.funWebSvr (D:\thrush-master\index.js:48:70)
+    at emitTwo (events.js:87:13)
+    at Server.emit (events.js:172:7)
+    at HTTPParser.parserOnIncoming [as onIncoming] (_http_server.js:507:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:88:23)
+SERVICE START AT 2016/09/21-14:53:45
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 100ms
+SERVICE START AT 2016/09/21-15:00:32
+D:\thrush-master\index.js:48
+			if(suffixType == 'css' || suffixType = 'less'){
+			   ^^^^^^^^^^
+
+ReferenceError: Invalid left-hand side in assignment
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:413:25)
+    at Object.Module._extensions..js (module.js:452:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+    at Function.Module.runMain (module.js:475:10)
+    at startup (node.js:117:18)
+    at node.js:951:3
+SERVICE START AT 2016/09/21-15:01:29
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 90ms
+{ [Error: 'base.less' wasn't found. Tried - base.less,base.less]
+  type: 'File',
+  filename: 'input',
+  index: 0,
+  line: 1,
+  callLine: NaN,
+  callExtract: undefined,
+  column: 0,
+  extract: [ undefined, '@import url(\'base.less\');', '@pink: pink;' ],
+  message: '\'base.less\' wasn\'t found. Tried - base.less,base.less',
+  stack: undefined }
+SERVICE START AT 2016/09/21-15:04:34
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 94ms
+{ [Error: 'base.less' wasn't found. Tried - base.less,base.less]
+  type: 'File',
+  filename: 'input',
+  index: 0,
+  line: 1,
+  callLine: NaN,
+  callExtract: undefined,
+  column: 0,
+  extract: [ undefined, '@import url(\'base.less\');', '@pink: pink;' ],
+  message: '\'base.less\' wasn\'t found. Tried - base.less,base.less',
+  stack: undefined }
+SERVICE START AT 2016/09/21-15:06:54
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 89ms
+{ [Error: 'base.less' wasn't found. Tried - base.less,base.less]
+  type: 'File',
+  filename: 'input',
+  index: 0,
+  line: 1,
+  callLine: NaN,
+  callExtract: undefined,
+  column: 0,
+  extract: [ undefined, '@import url(\'base.less\');', '@pink: pink;' ],
+  message: '\'base.less\' wasn\'t found. Tried - base.less,base.less',
+  stack: undefined }
+{ [Error: 'base.less' wasn't found. Tried - base.less,base.less]
+  type: 'File',
+  filename: 'input',
+  index: 0,
+  line: 1,
+  callLine: NaN,
+  callExtract: undefined,
+  column: 0,
+  extract: [ undefined, '@import url(\'base.less\');', '@pink: pink;' ],
+  message: '\'base.less\' wasn\'t found. Tried - base.less,base.less',
+  stack: undefined }
+SERVICE START AT 2016/09/21-15:07:42
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 91ms
+./statics/js/fml.js
+./statics/less/welcome.less
+./statics/img/pc/head.png
+{ [Error: 'base.less' wasn't found. Tried - base.less,base.less]
+  type: 'File',
+  filename: 'input',
+  index: 0,
+  line: 1,
+  callLine: NaN,
+  callExtract: undefined,
+  column: 0,
+  extract: [ undefined, '@import url(\'base.less\');', '@pink: pink;' ],
+  message: '\'base.less\' wasn\'t found. Tried - base.less,base.less',
+  stack: undefined }
+./statics/js/page/welcome.js
+./statics/js/jquery.js
+SERVICE START AT 2016/09/21-15:09:32
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 93ms
+{ [Error: 'base.less' wasn't found. Tried - base.less,base.less]
+  type: 'File',
+  filename: 'input',
+  index: 0,
+  line: 1,
+  callLine: NaN,
+  callExtract: undefined,
+  column: 0,
+  extract: [ undefined, '@import url(\'base.less\');', '@pink: pink;' ],
+  message: '\'base.less\' wasn\'t found. Tried - base.less,base.less',
+  stack: undefined }
+SERVICE START AT 2016/09/21-15:10:00
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 87ms
+{ [Error: 'base.less' wasn't found. Tried - base.less,base.less]
+  type: 'File',
+  filename: 'input',
+  index: 0,
+  line: 1,
+  callLine: NaN,
+  callExtract: undefined,
+  column: 0,
+  extract: [ undefined, '@import url(\'base.less\');', '@pink: pink;' ],
+  message: '\'base.less\' wasn\'t found. Tried - base.less,base.less',
+  stack: undefined }
+{ [Error: 'base.less' wasn't found. Tried - base.less,base.less]
+  type: 'File',
+  filename: 'input',
+  index: 0,
+  line: 1,
+  callLine: NaN,
+  callExtract: undefined,
+  column: 0,
+  extract: [ undefined, '@import url(\'base.less\');', '@pink: pink;' ],
+  message: '\'base.less\' wasn\'t found. Tried - base.less,base.less',
+  stack: undefined }
+SERVICE START AT 2016/09/21-15:13:42
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 89ms
+./statics/js/fml.js
+./statics/css/welcome.css
+./statics/img/pc/head.png
+{ [Error: 'base.less' wasn't found. Tried - base.less,base.less]
+  type: 'File',
+  filename: 'input',
+  index: 0,
+  line: 1,
+  callLine: NaN,
+  callExtract: undefined,
+  column: 0,
+  extract: [ undefined, '@import url(\'base.less\');', '@pink: pink;' ],
+  message: '\'base.less\' wasn\'t found. Tried - base.less,base.less',
+  stack: undefined }
+./statics/js/page/welcome.js
+./statics/js/jquery.js
+SERVICE START AT 2016/09/21-15:17:25
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 95ms
+{ [Error: 'base.less' wasn't found. Tried - base.less,base.less]
+  type: 'File',
+  filename: 'input',
+  index: 0,
+  line: 1,
+  callLine: NaN,
+  callExtract: undefined,
+  column: 0,
+  extract: [ undefined, '@import url(\'base.less\');', '@pink: pink;' ],
+  message: '\'base.less\' wasn\'t found. Tried - base.less,base.less',
+  stack: undefined }
+{ [Error: 'base.less' wasn't found. Tried - base.less,base.less]
+  type: 'File',
+  filename: 'input',
+  index: 0,
+  line: 1,
+  callLine: NaN,
+  callExtract: undefined,
+  column: 0,
+  extract: [ undefined, '@import url(\'base.less\');', '@pink: pink;' ],
+  message: '\'base.less\' wasn\'t found. Tried - base.less,base.less',
+  stack: undefined }
+{ [Error: 'base.less' wasn't found. Tried - base.less,base.less]
+  type: 'File',
+  filename: 'input',
+  index: 0,
+  line: 1,
+  callLine: NaN,
+  callExtract: undefined,
+  column: 0,
+  extract: [ undefined, '@import url(\'base.less\');', '@pink: pink;' ],
+  message: '\'base.less\' wasn\'t found. Tried - base.less,base.less',
+  stack: undefined }
+{ [Error: 'base.less' wasn't found. Tried - base.less,base.less]
+  type: 'File',
+  filename: 'input',
+  index: 0,
+  line: 1,
+  callLine: NaN,
+  callExtract: undefined,
+  column: 0,
+  extract: [ undefined, '@import url(\'base.less\');', '@pink: pink;' ],
+  message: '\'base.less\' wasn\'t found. Tried - base.less,base.less',
+  stack: undefined }
+SERVICE START AT 2016/09/21-15:27:18
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 91ms
+{ [Error: 'base.less' wasn't found. Tried - base.less,base.less]
+  type: 'File',
+  filename: 'input',
+  index: 0,
+  line: 1,
+  callLine: NaN,
+  callExtract: undefined,
+  column: 0,
+  extract: [ undefined, '@import url(\'base.less\');', '@pink: pink;' ],
+  message: '\'base.less\' wasn\'t found. Tried - base.less,base.less',
+  stack: undefined }
+SERVICE START AT 2016/09/21-15:28:42
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 92ms
+./statics/less/welcome.less
+{ [Error: 'base.less' wasn't found. Tried - base.less,base.less]
+  type: 'File',
+  filename: 'input',
+  index: 0,
+  line: 1,
+  callLine: NaN,
+  callExtract: undefined,
+  column: 0,
+  extract: [ undefined, '@import url(\'base.less\');', '@pink: pink;' ],
+  message: '\'base.less\' wasn\'t found. Tried - base.less,base.less',
+  stack: undefined }
+SERVICE START AT 2016/09/21-15:30:02
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 91ms
+./statics/less/welcome.less
+{ [Error: 'base.less' wasn't found. Tried - base.less,base.less]
+  type: 'File',
+  filename: 'input',
+  index: 0,
+  line: 1,
+  callLine: NaN,
+  callExtract: undefined,
+  column: 0,
+  extract: [ undefined, '@import \'base.less\';', '@pink: pink;' ],
+  message: '\'base.less\' wasn\'t found. Tried - base.less,base.less',
+  stack: undefined }
+./statics/less/welcome.less
+./statics/less/welcome.less
+{ [Error: 'base.less' wasn't found. Tried - base.less,base.less]
+  type: 'File',
+  filename: 'input',
+  index: 0,
+  line: 1,
+  callLine: NaN,
+  callExtract: undefined,
+  column: 0,
+  extract: [ undefined, '@import \'base.less\';', '@pink: pink;' ],
+  message: '\'base.less\' wasn\'t found. Tried - base.less,base.less',
+  stack: undefined }
+SERVICE START AT 2016/09/21-15:39:27
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 92ms
+./statics/less/welcome.less
+./statics/less/welcome.less
+SERVICE START AT 2016/09/21-15:47:05
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 88ms
+D:\thrush-master\index.js:104
+				  paths: [filePath.substr(0 , filepath.lastIndexOf('/'))] // Specify search paths for @import directives
+				                              ^
+
+ReferenceError: filepath is not defined
+    at D:\thrush-master\index.js:104:35
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:380:3)
+SERVICE START AT 2016/09/21-15:47:36
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 90ms

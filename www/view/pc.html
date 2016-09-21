@@ -1,0 +1,51 @@
+<%# header.html #%>
+<div class="wrap">
+	<!-- 轮播图 -->
+	<%if(this.banner){ %>
+	<section id="banner">
+		<ul class="banner-slider-wrap">
+			<% this.banner.map(function(v,k){ %>
+			<li ahref="<%= v.url %>">
+				<a href="<%= v.url || 'javascript:;'%>" target="_blank"><img src="<%= v.img%>"/></a>
+			</li>
+			<%});%>
+		</ul>
+		<ol class="banner-slider-point">
+			<% this.banner.map(function(v,k){ %>
+			<li><%= k+1 %></li>
+			<%});%>
+		</ol>
+	</section>
+	<%}%>
+	<article class="proInfo">
+		<h2>项目介绍</h2>
+		<p>lark是由前端研发的一个病毒营销中间件平台，包括但不限于小游戏、简单效果以及组件等。</p>
+		<p>换句话说，病毒营销的活动，可以从lark商城中选取一个中间件，减少了中间件开发的成本。</p>
+		<p>同时哪里需要用，都可以来我这里借用，我们会分配人力进行中间件接入的技术支持~</p>
+		<p>后期我们会稳步上新，欢迎大家多提一些好玩的东西，目前没有需求平台，在lark二期会向大家开放~</p>
+	</article>
+
+	<section class="proList">
+		<h1>Thrush-游戏列表</h1>
+		<div class="lists">
+		<% this.pc_show.forEach(function(v , i){ %>
+			<dl class="listInfo">
+				<dt>
+					<h2><%= v.name%></h2>
+					<a href="<%= v.url %>" target="_blank"><img src="<%= v.img%>" alt=""></a>
+				</dt>
+				<dd>
+					<div class="er"></div>
+				</dd>
+			</dl>
+		<%});%>
+		</div>
+		
+	</section>
+	
+</div>
+<img src=""/ id="qrcode_c">
+<%	
+	fml.use('page/pc');
+%>
+<%# footer.html #%>

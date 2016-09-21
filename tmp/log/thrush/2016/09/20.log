@@ -1,0 +1,427 @@
+SERVICE START AT 2016/09/20-11:10:06
+module.js:338
+    throw err;
+    ^
+
+Error: Cannot find module '../node_modules/less'
+    at Function.Module._resolveFilename (module.js:336:15)
+    at Function.Module._load (module.js:286:25)
+    at Module.require (module.js:365:17)
+    at require (module.js:384:17)
+    at Object.<anonymous> (D:\thrush-master\index.js:18:26)
+    at Module._compile (module.js:434:26)
+    at Object.Module._extensions..js (module.js:452:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+    at Function.Module.runMain (module.js:475:10)
+SERVICE START AT 2016/09/20-11:12:29
+module.js:338
+    throw err;
+    ^
+
+Error: Cannot find module '../../../node_modules/less'
+    at Function.Module._resolveFilename (module.js:336:15)
+    at Function.Module._load (module.js:286:25)
+    at Module.require (module.js:365:17)
+    at require (module.js:384:17)
+    at Object.<anonymous> (D:\thrush-master\index.js:18:26)
+    at Module._compile (module.js:434:26)
+    at Object.Module._extensions..js (module.js:452:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+    at Function.Module.runMain (module.js:475:10)
+SERVICE START AT 2016/09/20-11:12:57
+module.js:338
+    throw err;
+    ^
+
+Error: Cannot find module '../node_modules/less'
+    at Function.Module._resolveFilename (module.js:336:15)
+    at Function.Module._load (module.js:286:25)
+    at Module.require (module.js:365:17)
+    at require (module.js:384:17)
+    at Object.<anonymous> (D:\thrush-master\index.js:18:26)
+    at Module._compile (module.js:434:26)
+    at Object.Module._extensions..js (module.js:452:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+    at Function.Module.runMain (module.js:475:10)
+SERVICE START AT 2016/09/20-11:13:16
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 88ms
+null
+SERVICE START AT 2016/09/20-11:30:15
+D:\thrush-master\index.js:51
+			res.writeHead(200, {"Content-Type": contentType.funGetContentType(suffix[1]);
+			                                                                            ^
+
+SyntaxError: Unexpected token ;
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:413:25)
+    at Object.Module._extensions..js (module.js:452:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+    at Function.Module.runMain (module.js:475:10)
+    at startup (node.js:117:18)
+    at node.js:951:3
+SERVICE START AT 2016/09/20-11:31:06
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 89ms
+null
+fs.js:549
+  return binding.open(pathModule._makeLong(path), stringToFlags(flags), mode);
+                 ^
+
+Error: ENOENT: no such file or directory, open 'D:\thrush-master\statics\less\base.less'
+    at Error (native)
+    at Object.fs.openSync (fs.js:549:18)
+    at Object.fs.readFileSync (fs.js:397:15)
+    at Server.funWebSvr (D:\thrush-master\index.js:59:19)
+    at emitTwo (events.js:87:13)
+    at Server.emit (events.js:172:7)
+    at HTTPParser.parserOnIncoming [as onIncoming] (_http_server.js:507:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:88:23)
+SERVICE START AT 2016/09/20-11:33:06
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 91ms
+null
+SERVICE START AT 2016/09/20-11:35:06
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 91ms
+null
+null
+null
+null
+SERVICE START AT 2016/09/20-12:01:27
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 89ms
+null
+fs.js:40
+  throw new TypeError('Expected options to be either an object or a string, ' +
+  ^
+
+TypeError: Expected options to be either an object or a string, but got function instead
+    at throwOptionsError (fs.js:40:9)
+    at Object.fs.readFileSync (fs.js:390:5)
+    at Server.funWebSvr (D:\thrush-master\index.js:59:11)
+    at emitTwo (events.js:87:13)
+    at Server.emit (events.js:172:7)
+    at HTTPParser.parserOnIncoming [as onIncoming] (_http_server.js:507:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:88:23)
+SERVICE START AT 2016/09/20-12:03:57
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 94ms
+null
+D:\thrush-master\index.js:64
+					if (less &&  'less' == fileType){
+					                       ^
+
+ReferenceError: fileType is not defined
+    at D:\thrush-master\index.js:64:29
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:380:3)
+SERVICE START AT 2016/09/20-12:04:30
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 98ms
+null
+D:\thrush-master\node_modules\less\lib\less\parser\parser.js:114
+            str = str.replace(/\r\n?/g, '\n');
+                      ^
+
+TypeError: str.replace is not a function
+    at Object.Parser.parse (D:\thrush-master\node_modules\less\lib\less\parser\parser.js:114:23)
+    at D:\thrush-master\index.js:68:14
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:380:3)
+SERVICE START AT 2016/09/20-12:12:09
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 96ms
+null
+<Buffer 62 6f 64 79 7b 0d 0a 09 77 69 64 74 68 3a 20 31 30 30 25 3b 0d 0a 7d>
+D:\thrush-master\node_modules\less\lib\less\parser\parser.js:114
+            str = str.replace(/\r\n?/g, '\n');
+                      ^
+
+TypeError: str.replace is not a function
+    at Object.Parser.parse (D:\thrush-master\node_modules\less\lib\less\parser\parser.js:114:23)
+    at D:\thrush-master\index.js:69:14
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:380:3)
+SERVICE START AT 2016/09/20-12:13:31
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 93ms
+null
+body{
+	width: 100%;
+}
+D:\thrush-master\node_modules\less\lib\less\parser\parser.js:117
+            imports.contents[fileInfo.filename] = str;
+                   ^
+
+TypeError: Cannot read property 'contents' of undefined
+    at Object.Parser.parse (D:\thrush-master\node_modules\less\lib\less\parser\parser.js:117:20)
+    at D:\thrush-master\index.js:69:14
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:380:3)
+SERVICE START AT 2016/09/20-12:18:37
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 91ms
+null
+body{
+	width: 100%;
+}
+D:\thrush-master\node_modules\less\lib\less\parser\parser.js:118
+            imports.contents[fileInfo.filename] = str;
+                   ^
+
+TypeError: Cannot read property 'contents' of undefined
+    at Object.Parser.parse (D:\thrush-master\node_modules\less\lib\less\parser\parser.js:118:20)
+    at D:\thrush-master\index.js:68:14
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:380:3)
+SERVICE START AT 2016/09/20-12:24:04
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 88ms
+null
+./statics/less
+D:\thrush-master\node_modules\less\lib\less\parser\parser.js:117
+            imports.contents[fileInfo.filename] = str;
+                   ^
+
+TypeError: Cannot read property 'contents' of undefined
+    at Object.Parser.parse (D:\thrush-master\node_modules\less\lib\less\parser\parser.js:117:20)
+    at D:\thrush-master\index.js:69:14
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:380:3)
+SERVICE START AT 2016/09/20-14:56:55
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 92ms
+null
+null
+SERVICE START AT 2016/09/20-14:59:39
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 88ms
+null
+SERVICE START AT 2016/09/20-15:00:52
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 92ms
+null
+D:\thrush-master\index.js:59
+				res.end(libFs.readFileSyn(_statics, 'utf8'))
+				              ^
+
+TypeError: libFs.readFileSyn is not a function
+    at Server.funWebSvr (D:\thrush-master\index.js:59:19)
+    at emitTwo (events.js:87:13)
+    at Server.emit (events.js:172:7)
+    at HTTPParser.parserOnIncoming [as onIncoming] (_http_server.js:507:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:88:23)
+SERVICE START AT 2016/09/20-15:01:24
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 92ms
+null
+null
+SERVICE START AT 2016/09/20-15:03:39
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 91ms
+null
+null
+null
+SERVICE START AT 2016/09/20-16:09:33
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 98ms
+null
+D:\thrush-master\node_modules\less\lib\less\parser\parser.js:100
+            if (context.pluginManager) {
+                       ^
+
+TypeError: Cannot read property 'pluginManager' of undefined
+    at Object.Parser.parse (D:\thrush-master\node_modules\less\lib\less\parser\parser.js:100:24)
+    at Server.funWebSvr (D:\thrush-master\index.js:59:13)
+    at emitTwo (events.js:87:13)
+    at Server.emit (events.js:172:7)
+    at HTTPParser.parserOnIncoming [as onIncoming] (_http_server.js:507:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:88:23)
+SERVICE START AT 2016/09/20-17:14:27
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 90ms
+null
+D:\thrush-master\node_modules\less\lib\less\parser\parser.js:100
+            if (context.pluginManager) {
+                       ^
+
+TypeError: Cannot read property 'pluginManager' of undefined
+    at Object.Parser.parse (D:\thrush-master\node_modules\less\lib\less\parser\parser.js:100:24)
+    at Server.funWebSvr (D:\thrush-master\index.js:59:13)
+    at emitTwo (events.js:87:13)
+    at Server.emit (events.js:172:7)
+    at HTTPParser.parserOnIncoming [as onIncoming] (_http_server.js:507:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:88:23)
+SERVICE START AT 2016/09/20-17:39:14
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 90ms
+null
+D:\thrush-master\node_modules\less\lib\less\parser\parser.js:114
+            str = str.replace(/\r\n?/g, '\n');
+                      ^
+
+TypeError: str.replace is not a function
+    at Object.Parser.parse (D:\thrush-master\node_modules\less\lib\less\parser\parser.js:114:23)
+    at Server.funWebSvr (D:\thrush-master\index.js:59:13)
+    at emitTwo (events.js:87:13)
+    at Server.emit (events.js:172:7)
+    at HTTPParser.parserOnIncoming [as onIncoming] (_http_server.js:507:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:88:23)
+SERVICE START AT 2016/09/20-17:52:32
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 90ms
+null
+<Buffer 62 6f 64 79 7b 0d 0a 09 77 69 64 74 68 3a 20 31 30 30 25 3b 0d 0a 7d>
+D:\thrush-master\node_modules\less\lib\less\parser\parser.js:117
+            str = preText + str.replace(/^\uFEFF/, '') + modifyVars;
+                                ^
+
+TypeError: str.replace is not a function
+    at Object.Parser.parse (D:\thrush-master\node_modules\less\lib\less\parser\parser.js:117:33)
+    at Server.funWebSvr (D:\thrush-master\index.js:59:13)
+    at emitTwo (events.js:87:13)
+    at Server.emit (events.js:172:7)
+    at HTTPParser.parserOnIncoming [as onIncoming] (_http_server.js:507:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:88:23)
+SERVICE START AT 2016/09/20-17:54:27
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 93ms
+null
+D:\thrush-master\node_modules\less\lib\less\parser\parser.js:117
+            imports.contents[fileInfo.filename] = str;
+                   ^
+
+TypeError: Cannot read property 'contents' of undefined
+    at Object.Parser.parse (D:\thrush-master\node_modules\less\lib\less\parser\parser.js:117:20)
+    at Server.funWebSvr (D:\thrush-master\index.js:59:13)
+    at emitTwo (events.js:87:13)
+    at Server.emit (events.js:172:7)
+    at HTTPParser.parserOnIncoming [as onIncoming] (_http_server.js:507:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:88:23)
+SERVICE START AT 2016/09/20-18:15:16
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 95ms
+null
+_http_outgoing.js:517
+    throw new TypeError('first argument must be a string or Buffer');
+    ^
+
+TypeError: first argument must be a string or Buffer
+    at ServerResponse.OutgoingMessage.end (_http_outgoing.js:517:11)
+    at D:\thrush-master\index.js:67:12
+    at D:\thrush-master\node_modules\less\lib\less\render.js:35:17
+    at D:\thrush-master\node_modules\less\lib\less\parse.js:63:17
+    at Object.finish [as _finish] (D:\thrush-master\node_modules\less\lib\less\parser\parser.js:183:28)
+    at Object.ImportVisitor._onSequencerEmpty (D:\thrush-master\node_modules\less\lib\less\visitors\import-visitor.js:35:14)
+    at ImportSequencer.tryRun (D:\thrush-master\node_modules\less\lib\less\visitors\import-sequencer.js:50:14)
+    at Object.ImportVisitor.run (D:\thrush-master\node_modules\less\lib\less\visitors\import-visitor.js:29:25)
+    at Object.Parser.parse (D:\thrush-master\node_modules\less\lib\less\parser\parser.js:189:22)
+    at Object.parse (D:\thrush-master\node_modules\less\lib\less\parse.js:61:18)
+SERVICE START AT 2016/09/20-18:17:02
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 96ms
+null
+_http_outgoing.js:517
+    throw new TypeError('first argument must be a string or Buffer');
+    ^
+
+TypeError: first argument must be a string or Buffer
+    at ServerResponse.OutgoingMessage.end (_http_outgoing.js:517:11)
+    at D:\thrush-master\index.js:67:12
+    at D:\thrush-master\node_modules\less\lib\less\render.js:35:17
+    at D:\thrush-master\node_modules\less\lib\less\parse.js:63:17
+    at Object.finish [as _finish] (D:\thrush-master\node_modules\less\lib\less\parser\parser.js:183:28)
+    at Object.ImportVisitor._onSequencerEmpty (D:\thrush-master\node_modules\less\lib\less\visitors\import-visitor.js:35:14)
+    at ImportSequencer.tryRun (D:\thrush-master\node_modules\less\lib\less\visitors\import-sequencer.js:50:14)
+    at Object.ImportVisitor.run (D:\thrush-master\node_modules\less\lib\less\visitors\import-visitor.js:29:25)
+    at Object.Parser.parse (D:\thrush-master\node_modules\less\lib\less\parser\parser.js:189:22)
+    at Object.parse (D:\thrush-master\node_modules\less\lib\less\parse.js:61:18)
+SERVICE START AT 2016/09/20-18:18:39
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 89ms
+null
+{ css: '.class {\n  width: 2;\n}\n', imports: [] }
+{ css: '.class {\n  width: 2;\n}\n', imports: [] }
+SERVICE START AT 2016/09/20-18:19:39
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 91ms
+null
+_http_outgoing.js:517
+    throw new TypeError('first argument must be a string or Buffer');
+    ^
+
+TypeError: first argument must be a string or Buffer
+    at ServerResponse.OutgoingMessage.end (_http_outgoing.js:517:11)
+    at D:\thrush-master\index.js:67:13
+    at D:\thrush-master\node_modules\less\lib\less\render.js:35:17
+    at D:\thrush-master\node_modules\less\lib\less\parse.js:63:17
+    at Object.finish [as _finish] (D:\thrush-master\node_modules\less\lib\less\parser\parser.js:183:28)
+    at Object.ImportVisitor._onSequencerEmpty (D:\thrush-master\node_modules\less\lib\less\visitors\import-visitor.js:35:14)
+    at ImportSequencer.tryRun (D:\thrush-master\node_modules\less\lib\less\visitors\import-sequencer.js:50:14)
+    at Object.ImportVisitor.run (D:\thrush-master\node_modules\less\lib\less\visitors\import-visitor.js:29:25)
+    at Object.Parser.parse (D:\thrush-master\node_modules\less\lib\less\parser\parser.js:189:22)
+    at Object.parse (D:\thrush-master\node_modules\less\lib\less\parse.js:61:18)
+SERVICE START AT 2016/09/20-18:20:25
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 92ms
+null
+SERVICE START AT 2016/09/20-18:21:36
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 97ms
+null
+_http_outgoing.js:517
+    throw new TypeError('first argument must be a string or Buffer');
+    ^
+
+TypeError: first argument must be a string or Buffer
+    at ServerResponse.OutgoingMessage.end (_http_outgoing.js:517:11)
+    at D:\thrush-master\index.js:67:13
+    at D:\thrush-master\node_modules\less\lib\less\render.js:35:17
+    at D:\thrush-master\node_modules\less\lib\less\parse.js:63:17
+    at Object.finish [as _finish] (D:\thrush-master\node_modules\less\lib\less\parser\parser.js:183:28)
+    at Object.ImportVisitor._onSequencerEmpty (D:\thrush-master\node_modules\less\lib\less\visitors\import-visitor.js:35:14)
+    at ImportSequencer.tryRun (D:\thrush-master\node_modules\less\lib\less\visitors\import-sequencer.js:50:14)
+    at Object.ImportVisitor.run (D:\thrush-master\node_modules\less\lib\less\visitors\import-visitor.js:29:25)
+    at Object.Parser.parse (D:\thrush-master\node_modules\less\lib\less\parser\parser.js:189:22)
+    at Object.parse (D:\thrush-master\node_modules\less\lib\less\parse.js:61:18)
+SERVICE START AT 2016/09/20-18:22:14
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 93ms
+null
+SERVICE START AT 2016/09/20-18:22:46
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 88ms
+null
+null
+SERVICE START AT 2016/09/20-18:23:25
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 90ms
+null
+{ css: '.class {\n  width: 2;\n}\n', imports: [] }
+{ css: '.class {\n  width: 2;\n}\n', imports: [] }
+SERVICE START AT 2016/09/20-18:24:27
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 80ms
+null
+null
+SERVICE START AT 2016/09/20-18:25:07
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 93ms
+null
+SERVICE START AT 2016/09/20-18:25:50
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 89ms
+null
+SERVICE START AT 2016/09/20-18:26:11
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 92ms
+null
+null
+SERVICE START AT 2016/09/20-18:26:29
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 92ms
+null
+null
+null
+SERVICE START AT 2016/09/20-18:42:26
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 90ms

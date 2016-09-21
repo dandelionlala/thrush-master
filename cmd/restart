@@ -1,0 +1,40 @@
+#!/bin/bash 
+basepath=$(cd `dirname $0`; pwd)'/../'
+pid=`cat $basepath'jsserver/config/pid'`
+server_logf=$basepath'tmp/log/thrush/'` date +%Y/%m`
+server_log=$basepath'tmp/log/thrush/'` date +%Y/%m/%d`'.log'
+stopService(){
+	if [ $pid ];then
+		if [ `ps -ef | grep $pid|wc -l` > 1 ]; then
+			kill $pid
+		fi
+	else
+		pkill node
+	fi
+	rm -rf $basepath'www/tmp/*'
+	echo '' >  $basepath'jsserver/config/pid'
+}
+startService(){
+	echo 'SERVICE START AT '` date +%Y/%m/%d-%T` >> $server_log
+	mkdir -p $server_logf
+	echo 'web service start , logfile:'$server_log	
+	cd $basepath && nohup node index.js >> $server_log &
+	
+}
+if [ $# -eq 0 ];then
+	echo "you should pass args start|restart|stop"	
+else
+	case $1 in
+		"stop") 
+			stopService
+			;;
+		"start") 
+			startService
+			;;
+		"restart") 
+			stopService
+			startService
+			;;
+	esac
+fi
+exit 0;

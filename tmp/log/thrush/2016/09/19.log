@@ -1,0 +1,222 @@
+SERVICE START AT 2016/09/19-11:00:53
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 31ms
+www/controller/welcome/abc.js
+SERVICE START AT 2016/09/19-11:10:37
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 15ms
+www/controller/welcome/abc.js
+www/controller/welcome/abc.js
+SERVICE START AT 2016/09/19-11:17:36
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 24ms
+/welcome/abc
+www/controller/welcome/abc.js
+/fml.js
+/base.css
+/welcome.css
+/pc/head.png
+/page/welcome.js
+/jquery.js
+/welcome/abc
+www/controller/welcome/abc.js
+/fml.js
+/base.css
+/welcome.css
+/pc/head.png
+/page/welcomer.js
+/welcome/abc
+www/controller/welcome/abc.js
+/fml.js
+/base.css
+/welcome.css
+/pc/head.png
+/page/welcomer.js
+/welcome/abc
+www/controller/welcome/abc.js
+/fml.js
+/base.css
+/welcome.css
+/pc/head.png
+/page/welcomer.js
+SERVICE START AT 2016/09/19-12:13:10
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 23ms
+www/controller/welcome/abc.js
+statusCode: 404 /page/welcomer.js?1is not find
+SERVICE START AT 2016/09/19-12:13:43
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 25ms
+www/controller/welcome/abc.js
+statusCode: 404 /page/welcomer.js?1is not find
+SERVICE START AT 2016/09/19-12:14:48
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 22ms
+www/controller/welcome/abc.js
+statusCode: 404 /page/welcomer.js?1is not find
+SERVICE START AT 2016/09/19-12:16:20
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 23ms
+www/controller/welcome/abc.js
+SERVICE START AT 2016/09/19-12:17:36
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 23ms
+www/controller/welcome/abc.js
+statusCode: 404 /page/q.js?1is not find
+SERVICE START AT 2016/09/19-12:19:52
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 22ms
+/welcome/abc
+www/controller/welcome/abc.js
+/fml.js
+/base.css
+/welcome.css
+/pc/head.png
+/page/welcome.js?1
+/jquery.js?1
+SERVICE START AT 2016/09/19-12:21:07
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 22ms
+SERVICE START AT 2016/09/19-14:41:23
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 22ms
+null
+www/controller/welcome/abc.js
+[ '.js', 'js', index: 4, input: '/fml.js' ]
+[ '.css', 'css', index: 5, input: '/base.css' ]
+[ '.css', 'css', index: 8, input: '/welcome.css' ]
+[ '.png', 'png', index: 8, input: '/pc/head.png' ]
+[ '.js', 'js', index: 14, input: '/page/welcomer.js' ]
+./statics/js/page/welcomer.js  is lost
+SERVICE START AT 2016/09/19-14:43:18
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 23ms
+www/controller/welcome/abc.js
+/page/welcomer.js?1  is lost
+SERVICE START AT 2016/09/19-14:58:13
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 23ms
+/welcome/abc
+welcome/abc
+www/controller/welcome/abc.js
+/page/welcomer.js?1  is lost
+/welcome/abc
+welcome/abc
+www/controller/welcome/abc.js
+SERVICE START AT 2016/09/19-15:57:39
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 23ms
+/
+/fml.js
+/base.css
+/welcome.css
+/pc/head.png
+/page/welcome.js
+/jquery.js
+SERVICE START AT 2016/09/19-15:59:08
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 22ms
+SERVICE START AT 2016/09/19-16:44:47
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 22ms
+ReferenceError: modFilePath is not defined
+    at exeMod (D:\thrush-master\index.js:108:17)
+    at render200 (D:\thrush-master\index.js:120:10)
+    at Server.funWebSvr (D:\thrush-master\index.js:79:4)
+    at emitTwo (events.js:87:13)
+    at Server.emit (events.js:172:7)
+    at HTTPParser.parserOnIncoming [as onIncoming] (_http_server.js:507:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:88:23)
+SERVICE START AT 2016/09/19-16:46:41
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 23ms
+[object Object] not assign
+ReferenceError: response is not defined
+    at exeMod (D:\thrush-master\index.js:109:5)
+    at render200 (D:\thrush-master\index.js:120:10)
+    at Server.funWebSvr (D:\thrush-master\index.js:79:4)
+    at emitTwo (events.js:87:13)
+    at Server.emit (events.js:172:7)
+    at HTTPParser.parserOnIncoming [as onIncoming] (_http_server.js:507:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:88:23)
+[object Object] not assign
+ReferenceError: response is not defined
+    at exeMod (D:\thrush-master\index.js:109:5)
+    at render200 (D:\thrush-master\index.js:120:10)
+    at Server.funWebSvr (D:\thrush-master\index.js:79:4)
+    at emitTwo (events.js:87:13)
+    at Server.emit (events.js:172:7)
+    at HTTPParser.parserOnIncoming [as onIncoming] (_http_server.js:507:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:88:23)
+SERVICE START AT 2016/09/19-16:48:39
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 22ms
+not assign
+abc
+abc
+www/controller//abc.js  is lost
+www/controller//abc.js  is lost
+SERVICE START AT 2016/09/19-17:06:44
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 23ms
+www/controller//abc.js  is lost
+www/controller//abc.js  is lost
+www/controller//abc.js  is lost
+SERVICE START AT 2016/09/19-17:08:25
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 16ms
+www/controller//abc.js
+www/controller//abc.js  is lost
+www/controller//abc.js
+www/controller//abc.js  is lost
+SERVICE START AT 2016/09/19-17:11:03
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 21ms
+www/controller//abc.js
+www/controller//abc.js  is lost
+www/controller//abc.js
+www/controller//abc.js  is lost
+www/controller//abc.js
+www/controller//abc.js  is lost
+www/controller//abc.js
+www/controller//abc.js  is lost
+SERVICE START AT 2016/09/19-17:12:46
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 22ms
+
+www/controller//abc.js
+www/controller//abc.js  is lost
+SERVICE START AT 2016/09/19-17:13:53
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 23ms
+[]
+www/controller//abc.js
+www/controller//abc.js  is lost
+SERVICE START AT 2016/09/19-17:15:35
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 26ms
+/abc.js  is lost
+/welcome.js  is lost
+/welcome.js  is lost
+/welcome.js  is lost
+/welcome.js  is lost
+/welcome.js  is lost
+/welcome.js  is lost
+/welcome.js  is lost
+/welcome.js  is lost
+SERVICE START AT 2016/09/19-17:34:34
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 24ms
+/welcome.js
+/welcome.js  is lost
+SERVICE START AT 2016/09/19-17:35:24
+[WebSvr][Start] running at http://127.0.0.1:8124/
+[WebSvr][Start]: 24ms
+www/controller/welcome.js
+null
+www/controller/welcome.js
+null
+www/controller/welcome.js
+null
+www/controller/welcome.js
+null

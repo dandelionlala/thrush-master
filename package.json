@@ -1,0 +1,14 @@
+{
+  "name": "thrushs",
+  "version": "1.0.0",
+  "description": "node mvc",
+  "main": "index.js",
+  "author": "yaoyao",
+  "scripts": {
+    "start": "sh cmd/restart restart",
+    "stop": "sh cmd/restart stop"
+  },
+  "devDependencies": {
+    "less": "^2.7.1"
+  }
+}
